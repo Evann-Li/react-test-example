@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon app.js",
     "watch": "webpack --watch",
-    "test": "jest --verbose"
+    "test": "react-scripts test"
   },
   "keywords": [],
   "author": "",
